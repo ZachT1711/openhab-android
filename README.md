@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/openhab/openhab-android)
+
 <p align="center">
     <a href="https://github.com/openhab/openhab-android/actions?query=workflow%3A%22Build+App%22"><img alt="GitHub Action" src="https://github.com/openhab/openhab-android/workflows/Build%20App/badge.svg"></a>
     <a href="https://travis-ci.com/openhab/openhab-android"><img alt="Travis CI Status" src="https://travis-ci.com/openhab/openhab-android.svg?branch=master"></a>
